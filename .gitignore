@@ -1,0 +1,11 @@
+build
+bazel-*
+/build/
+/install/
+/log/
+/.vscode/
+.git/
+/.git/
+*.db3
+.github
+/.github/
